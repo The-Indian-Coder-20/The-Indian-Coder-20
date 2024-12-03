@@ -1,4 +1,4 @@
-<h1 align="center"> Hey There 😀 </p>
+<h1 align="center"> Hey There! 😀 </p>
 
 <h3 align="center"> I'm Shrish. I'm a high-school student with interests in code and artificial intelligence. </h1>
 
@@ -13,14 +13,18 @@
 
 <p align="center">
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=The-Indian-Coder-20&theme=dark&exclude_days=Sun,Sat" alt="GitHub Streak">
+        <img src="https://streak-stats.demolab.com?user=The-Indian-Coder-20&theme=dark&exclude_days=Sun,Sat&rank_icon=github" alt="GitHub Streak">
     </a>
 </p>
 
-## ⏰ Coding time
+## 📚 Languages
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheIndianCoder" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Indian-Coder-20a&layout=donut-vertical" />
+</a>
 
 ## :zap: Recent activity
 
