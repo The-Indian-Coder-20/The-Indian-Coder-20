@@ -20,10 +20,10 @@
 ## 📚 Languages
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="github-readme-stats-eight-iota-53.vercel.app/api/wakatime?username=TheIndianCoder" />
+  <img height=200 align="center" src="https://github-readme-stats-shrish-pandas-projects.vercel.app//api/wakatime?username=TheIndianCoder" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="github-readme-stats-eight-iota-53.vercel.app/api/top-langs/?username=The-Indian-Coder-20a&layout=donut-vertical" />
+  <img height=200 align="center" src="https://github-readme-stats-shrish-pandas-projects.vercel.app//api/top-langs/?username=The-Indian-Coder-20a&layout=donut-vertical" />
 </a>
 
 ## :zap: Recent activity
