@@ -19,7 +19,7 @@
 
 ## 📈 Statistics
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards?tab=readme-ov-file">
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-Indian-Coder-20&theme=synthwave)" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
