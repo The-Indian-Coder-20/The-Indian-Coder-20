@@ -17,13 +17,13 @@
     </a>
 </p>
 
-## 📚 Languages
+## 📚 Languages and progress
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-s9q8-shrish-pandas-projects.vercel.app///api/wakatime?username=TheIndianCoder" />
+  <img height=200 align="center" src="https://github-readme-stats-s9q8-shrish-pandas-projects.vercel.app/api?username=The-Indian-Coder-20&theme=midnight_purple&bg_color=00000000&border_radius=6&rank_icon=github)" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=500 align="center" src="https://github-readme-stats-s9q8-shrish-pandas-projects.vercel.app///api/top-langs/?username=The-Indian-Coder-20&layout=donut-vertical" />
+  <img height=500 align="center" src="https://github-readme-stats-s9q8-shrish-pandas-projects.vercel.app/api/top-langs/?username=The-Indian-Coder-20&layout=donut&theme=midnight_purple&bg_color=00000000" />
 </a>
 
 ## :zap: Recent activity
