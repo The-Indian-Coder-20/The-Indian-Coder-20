@@ -20,7 +20,7 @@
 ## 📚 Languages and progress
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=The-Indian-Coder-20&show_icons=true&theme=synthwave&bg_color=00000000&border_radius=6&rank_icon=github)" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=The-Indian-Coder-20&show_icons=true&theme=synthwave&bg_color=00000000&border_radius=6&hide_rank=true&card_width=450)" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-s9q8-shrish-pandas-projects.vercel.app/api/top-langs/?username=The-Indian-Coder-20&layout=donut&theme=synthwave&bg_color=00000000&border_radius=6" />
