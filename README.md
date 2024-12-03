@@ -1,4 +1,4 @@
-<h1 align="center"> Hey There! 😀 </p>
+![Into image](https://github.com/The-Indian-Coder-20/The-Indian-Coder-20/blob/master/header.png?raw=true)
 
 <h3 align="center"> I'm Shrish. I'm a high-school student with interests in code and artificial intelligence. </h1>
 
@@ -17,10 +17,10 @@
     </a>
 </p>
 
-## 📚 Languages and progress
+## 📈 Statistics
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=The-Indian-Coder-20&show_icons=true&theme=synthwave&bg_color=00000000&hid_rank=true&border_radius=6)" />
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards?tab=readme-ov-file">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-Indian-Coder-20&theme=synthwave)" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-s9q8-shrish-pandas-projects.vercel.app/api/top-langs/?username=The-Indian-Coder-20&layout=donut&theme=synthwave&bg_color=00000000&border_radius=6" />
