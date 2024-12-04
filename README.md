@@ -9,7 +9,8 @@
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
 </p>
 
-
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
 
 <p align="center">
     <a href="https://git.io/streak-stats">
@@ -19,14 +20,10 @@
 
 ## 📈 Statistics
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-Indian-Coder-20&theme=synthwave)" />
-</a>
+<img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details/username=The-Indian-Coder-20&theme=synthwave)" />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-s9q8-shrish-pandas-projects.vercel.app/api/top-langs/?username=The-Indian-Coder-20&layout=donut&theme=synthwave&bg_color=00000000&border_radius=6" />
 </a>
 
 ## :zap: Recent activity
 
-<!--STARTS_HERE_QUOTE_README-->
-<!--ENDS_HERE_QUOTE_README-->
