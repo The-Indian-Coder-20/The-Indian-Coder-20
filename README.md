@@ -29,7 +29,15 @@
 
 ## 📈 Statistics
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+Total Time: 2 hrs 39 mins
+
+Markdown   2 hrs 25 mins   >>>>>>>>>>>>>>>>>>>>>>>--   90.90 %
+YAML       14 mins         >>-----------------------   09.10 %
+```
+
+<!--END_SECTION:waka-->
 
 ![3D stats](./profile-3d-contrib/profile-night-green.svg)
 
