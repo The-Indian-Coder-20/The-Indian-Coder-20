@@ -28,5 +28,5 @@
 
 ## :zap: Recent activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
