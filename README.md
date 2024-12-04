@@ -19,9 +19,7 @@
 
 
 <p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=The-Indian-Coder-20&theme=dark&exclude_days=Sun,Sat&rank_icon=github" alt="GitHub Streak">
-    </a>
+  <img src="https://streak-stats.demolab.com/?user=The-Indian-Coder-20">
 </p>
 
 ---
