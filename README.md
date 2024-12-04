@@ -34,9 +34,6 @@
       <!--END_SECTION:waka-->
     </a>
   </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-s9q8-shrish-pandas-projects.vercel.app/api/top-langs/?username=The-Indian-Coder-20&layout=donut&theme=synthwave&bg_color=00000000&border_radius=6" />
-</a>
 
 ![3D stats](./profile-3d-contrib/profile-night-green.svg)
 
