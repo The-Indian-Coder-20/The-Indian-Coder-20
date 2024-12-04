@@ -39,4 +39,11 @@ YAML       14 mins         >>-----------------------   09.10 %
 
 <!--END_SECTION:waka-->
 
+<<<<<<< HEAD
 ![3D stats](./profile-3d-contrib/profile-night-green.svg)
+=======
+![3D stats](./profile-3d-contrib/profile-night-green.svg)
+
+## :zap: Recent activity
+  <!-- START gadpp -->
+>>>>>>> refs/remotes/origin/master
