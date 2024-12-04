@@ -9,14 +9,16 @@
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
 </p>
 
-<!--STARTS_HERE_QUOTE_README-->
-<!--ENDS_HERE_QUOTE_README-->
-
 <p align="center">
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=The-Indian-Coder-20&theme=dark&exclude_days=Sun,Sat&rank_icon=github" alt="GitHub Streak">
     </a>
 </p>
+
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+</a>
 
 ## 📈 Statistics
 
