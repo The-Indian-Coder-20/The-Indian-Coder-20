@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hey,%20I'm%20Shrish%20😀&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+![Intro image](https://github.com/The-Indian-Coder-20/The-Indian-Coder-20/blob/master/header.png?raw=true)
 
 <h3 align="center"> I'm Shrish. I'm a high-school student with interests in code and artificial intelligence. </h1>
 
@@ -39,11 +39,4 @@ YAML       14 mins         >>-----------------------   09.10 %
 
 <!--END_SECTION:waka-->
 
-<<<<<<< HEAD
 ![3D stats](./profile-3d-contrib/profile-night-green.svg)
-=======
-![3D stats](./profile-3d-contrib/profile-night-green.svg)
-
-## :zap: Recent activity
-  <!-- START gadpp -->
->>>>>>> refs/remotes/origin/master
