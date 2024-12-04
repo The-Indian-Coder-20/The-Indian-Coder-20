@@ -31,7 +31,15 @@
   <p align="center">
     <a href="https://github.com/marketplace/actions/waka-readme">
       <!--START_SECTION:waka-->
-      <!--END_SECTION:waka-->
+
+```txt
+Total Time: 2 hrs 39 mins
+
+Markdown   2 hrs 25 mins   >>>>>>>>>>>>>>>>>>>>>>>--   90.90 %
+YAML       14 mins         >>-----------------------   09.10 %
+```
+
+<!--END_SECTION:waka-->
     </a>
   </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
