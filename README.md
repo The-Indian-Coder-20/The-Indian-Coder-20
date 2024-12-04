@@ -17,8 +17,6 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=The-Indian-Coder-20)](https://git.io/streak-stats)
-
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=The-Indian-Coder-20&theme=synthwave&border_radius=6&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </p>
