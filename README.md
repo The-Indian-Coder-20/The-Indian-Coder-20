@@ -39,8 +39,10 @@ YAML       14 mins         >>-----------------------   09.10 %
 
 <!--END_SECTION:waka-->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-Indian-Coder-20&theme=synthwave)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=The-Indian-Coder-20&theme=synthwave)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=The-Indian-Coder-20&theme=synthwave)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-Indian-Coder-20&theme=synthwave">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=The-Indian-Coder-20&theme=synthwave">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=The-Indian-Coder-20&theme=synthwave">
+</p>
 
 ![3D stats](./profile-3d-contrib/profile-night-green.svg)
