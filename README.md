@@ -28,8 +28,12 @@
 ---
 
 ## 📈 Statistics
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+  <p align="center">
+    <a href="https://github.com/marketplace/actions/waka-readme">
+      <!--START_SECTION:waka-->
+      <!--END_SECTION:waka-->
+    </a>
+  </p>
 
 ![3D stats](./profile-3d-contrib/profile-night-green.svg)
 
