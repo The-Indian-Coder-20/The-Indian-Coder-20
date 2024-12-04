@@ -15,6 +15,8 @@
     </a>
 </p>
 
+---
+
 <p align="center" style="font-size: 16px; font-weight: bold; color: #FFFFFF; font-family: 'Roboto', sans-serif;">
   <a href="https://github.com/marketplace/actions/quote-readme" style="text-decoration: none; color: inherit;">
     <!--STARTS_HERE_QUOTE_README-->
@@ -23,6 +25,7 @@
   </a>
 </p>
 
+---
 
 ## 📈 Statistics
 
@@ -33,9 +36,5 @@
 
 ## :zap: Recent activity
 
-<p>
-  <a href="https://github.com/marketplace/actions/github-activity-readme">
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
-  </a>
-</p>
