@@ -1,4 +1,3 @@
-![Into image](https://github.com/The-Indian-Coder-20/The-Indian-Coder-20/blob/master/header.png?raw=true)
 
 <h3 align="center"> I'm Shrish. I'm a high-school student with interests in code and artificial intelligence. </h1>
 
