@@ -51,4 +51,6 @@ YAML       14 mins         >>-----------------------   09.10 %
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=The-Indian-Coder-20&theme=synthwave">
 </p>
 
+---
+
 ![3D stats](./profile-3d-contrib/profile-night-green.svg)
