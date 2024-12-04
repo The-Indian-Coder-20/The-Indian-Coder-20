@@ -34,6 +34,4 @@
 ![3D stats](./profile-3d-contrib/profile-night-green.svg)
 
 ## :zap: Recent activity
-
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
+  <!-- START gadpp -->
