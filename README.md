@@ -33,7 +33,9 @@
 
 ## :zap: Recent activity
 
-<a href="https://github.com/marketplace/actions/github-activity-readme">
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-</a>
+<p>
+  <a href="https://github.com/marketplace/actions/github-activity-readme">
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+  </a>
+</p>
