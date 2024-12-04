@@ -19,3 +19,4 @@ jobs:
             TARGET_FILE: README.md
             GH_USERNAME: The-Indian-Coder-20
             MAX_LINES: 5
+            COMMIT_NAME: GitHub Activity Readme
