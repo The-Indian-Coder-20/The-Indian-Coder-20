@@ -26,7 +26,7 @@
 <p align="center" style="font-size: 16px; font-weight: bold; color: #FFFFFF; font-family: 'Roboto', sans-serif;">
   <a href="https://github.com/marketplace/actions/quote-readme" style="text-decoration: none; color: inherit;">
     <!--STARTS_HERE_QUOTE_README-->
-<i>❝When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!❞</i>
+<i>❝“The best way to predict the future is to implement it.”— David Heinemeier Hansson   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
