@@ -37,13 +37,10 @@ https://guns.lol/shrizzy
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 22 mins
+Total Time: 6 mins
 
-YAML       53 mins         >>>>>>>>>>>>>>>>---------   64.79 %
-CSS        16 mins         >>>>>--------------------   20.41 %
-JSON       11 mins         >>>>---------------------   14.46 %
-Markdown   0 secs          -------------------------   00.21 %
-TSConfig   0 secs          -------------------------   00.13 %
+CSS    6 mins          >>>>>>>>>>>>>>>>>>>>>>>--   93.75 %
+JSON   0 secs          >>-----------------------   06.25 %
 ```
 
 <!--END_SECTION:waka-->
