@@ -37,10 +37,9 @@ https://guns.lol/shrizzy
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 mins
+Total Time: 0 secs
 
-CSS    6 mins          >>>>>>>>>>>>>>>>>>>>>>>--   93.75 %
-JSON   0 secs          >>-----------------------   06.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
