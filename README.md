@@ -37,9 +37,10 @@ https://guns.lol/shrizzy
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 6 mins
 
-No activity tracked
+Python   6 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   99.48 %
+Bash     0 secs          -------------------------   00.52 %
 ```
 
 <!--END_SECTION:waka-->
