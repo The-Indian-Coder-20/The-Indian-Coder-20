@@ -37,10 +37,11 @@ https://guns.lol/shrizzy
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 41 mins
+Total Time: 3 hrs 48 mins
 
-Python   2 hrs 38 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.05 %
-Bash     3 mins          -------------------------   01.94 %
+Python   3 hrs 42 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.26 %
+Bash     5 mins          >------------------------   02.55 %
+JSON     0 secs          -------------------------   00.17 %
 Other    0 secs          -------------------------   00.01 %
 ```
 
