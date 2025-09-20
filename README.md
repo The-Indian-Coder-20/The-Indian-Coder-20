@@ -39,7 +39,7 @@ https://guns.lol/shrizzy
 ```txt
 Total Time: 0 secs
 
-C++   0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
