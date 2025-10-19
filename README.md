@@ -26,7 +26,7 @@ https://guns.lol/shrizzy
 <p align="center" style="font-size: 16px; font-weight: bold; color: #FFFFFF; font-family: 'Roboto', sans-serif;">
   <a href="https://github.com/marketplace/actions/quote-readme" style="text-decoration: none; color: inherit;">
     <!--STARTS_HERE_QUOTE_README-->
-<i>❝Mircosoft included Solitaire in their operating systems “to soothe people intimidated by the operating system” and introduce users to graphic user interfaces and taught them how to use a mouse.❞</i>
+<i>❝“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”— Stephen Hawking   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
