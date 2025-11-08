@@ -26,7 +26,7 @@ https://guns.lol/shrizzy
 <p align="center" style="font-size: 16px; font-weight: bold; color: #FFFFFF; font-family: 'Roboto', sans-serif;">
   <a href="https://github.com/marketplace/actions/quote-readme" style="text-decoration: none; color: inherit;">
     <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It’s hardware that makes a machine fast.  It’s software that makes a fast machine slow.”— Craig Bruce   ❞</i>
+<i>❝“The best way to predict the future is to implement it.”— David Heinemeier Hansson   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
