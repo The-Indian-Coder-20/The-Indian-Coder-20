@@ -33,19 +33,6 @@ https://guns.lol/shrizzy
 
 ---
 
-## 📈 Statistics
-  <!--START_SECTION:waka-->
-
-```txt
-Total Time: 1 hr 7 mins
-
-Python       1 hr 3 mins     >>>>>>>>>>>>>>>>>>>>>>>>-   94.24 %
-Git Config   2 mins          >------------------------   03.74 %
-JSON         1 min           >------------------------   02.02 %
-```
-
-<!--END_SECTION:waka-->
-
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-Indian-Coder-20&theme=synthwave">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=The-Indian-Coder-20&theme=synthwave">
