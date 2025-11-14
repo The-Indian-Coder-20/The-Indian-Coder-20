@@ -26,7 +26,7 @@ https://guns.lol/shrizzy
 <p align="center" style="font-size: 16px; font-weight: bold; color: #FFFFFF; font-family: 'Roboto', sans-serif;">
   <a href="https://github.com/marketplace/actions/quote-readme" style="text-decoration: none; color: inherit;">
     <!--STARTS_HERE_QUOTE_README-->
-<i>❝China has the highest number of internet users in the whole world with over 746 million active users.❞</i>
+<i>❝“It’s hardware that makes a machine fast.  It’s software that makes a fast machine slow.”— Craig Bruce   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
