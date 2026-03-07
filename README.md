@@ -26,7 +26,7 @@ https://guns.lol/shrizzy
 <p align="center" style="font-size: 16px; font-weight: bold; color: #FFFFFF; font-family: 'Roboto', sans-serif;">
   <a href="https://github.com/marketplace/actions/quote-readme" style="text-decoration: none; color: inherit;">
     <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to learn data science is to do data science.”— Chanin Nantasenamat❞</i>
+<i>❝“Real knowledge is to know the extent of one’s ignorance.”— Confucius   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
