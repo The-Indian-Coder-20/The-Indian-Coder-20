@@ -26,7 +26,7 @@ https://guns.lol/shrizzy
 <p align="center" style="font-size: 16px; font-weight: bold; color: #FFFFFF; font-family: 'Roboto', sans-serif;">
   <a href="https://github.com/marketplace/actions/quote-readme" style="text-decoration: none; color: inherit;">
     <!--STARTS_HERE_QUOTE_README-->
-<i>❝The original Halo was 3rd person and designed for Mac. In 2000 Microsoft bought Bungie and made it an exclusive for the original Xbox.❞</i>
+<i>❝In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
