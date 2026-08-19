@@ -26,7 +26,7 @@ https://guns.lol/shrizzy
 <p align="center" style="font-size: 16px; font-weight: bold; color: #FFFFFF; font-family: 'Roboto', sans-serif;">
   <a href="https://github.com/marketplace/actions/quote-readme" style="text-decoration: none; color: inherit;">
     <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Programming without an overall architecture or design in mind is like exploring a cave with only a flashlight: You don’t know where you’ve been, you don’t know where you’re going, and you don’t know quite where you are.”— Danny Thorpe   ❞</i>
+<i>❝“If we wish to count lines of code, we should not regard them as ‘lines produced’ but as ‘lines spent.'”— Edsger Dijkstra   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
